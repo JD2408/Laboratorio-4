@@ -44,5 +44,12 @@
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
+- Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
+- Al final en las tablas de comparación se plasmaron los resultados y se obtuvo un porcentaje de error que en la mayoría de los parámetros fue satisfactorio, teniendo en cuenta los valores medidos.
+- Se concluye que el teorema de superposición es válido, la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones a través de ese elemento debido a que cada fuente independiente actúa sola.
 
 ## 7. BIBLIOGRAFÍA
+1. Superposición. (n.d.). Khan Academy. Retrieved December 21, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+2. carakenio. (2019, November 8). Principio de superposición – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+
+
