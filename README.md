@@ -9,11 +9,23 @@
 
 ## 2. MARCO TEÓRICO
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
-## 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
 *Materiales*
+2 Fuente de Voltaje de C.D.
+2 Multímetros Digitales
+1 Resistor de 1 kΩ
+1 Resistor de 2.2 kΩ
+1 Resistor de 820 Ω
+1 Resistor de 470 Ω
+1 Protoboard
 
+*Procedimiento Experimental*
 
-
+**Mediciones de Intensidad**
+![image](https://user-images.githubusercontent.com/93794279/147009958-09b097b3-b50c-46cb-9104-99b27b13a48c.png)
+![image](https://user-images.githubusercontent.com/93794279/147009971-08588851-3731-4582-ac47-02ee36c319ee.png)
+![image](https://user-images.githubusercontent.com/93794279/147009989-c792795a-865d-44fe-a1d5-1517bee483a1.png)
+![image](https://user-images.githubusercontent.com/93794279/147010006-0f2bf2a8-2b64-43be-b21b-6c058413d3e3.png)
 
 *Procedimiento del Cálculo*
 
@@ -23,6 +35,10 @@
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
+
+***Tabla de Intensidad***
+![image](https://user-images.githubusercontent.com/93794279/147010108-fd826e9e-c7b5-4c6a-81df-f5a9faa9601a.png)
+
 ***Cálculo de Error***
 
 ## 5. VIDEO
