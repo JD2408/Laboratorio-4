@@ -32,6 +32,7 @@
 **Cálculo de la intensidad**
 ![image](https://user-images.githubusercontent.com/93794279/147007976-2682c2d7-9345-43e0-8484-71b8d7c6a889.png)
 ![image](https://user-images.githubusercontent.com/93794279/147008038-9e9e235d-c4e2-45c1-b3f4-f0993d6d2b56.png)
+![image](https://user-images.githubusercontent.com/93794279/147011619-db2f8554-e46b-4b92-aa24-55265fc64eb9.png)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
@@ -42,6 +43,8 @@
 ***Cálculo de Error***
 
 ## 5. VIDEO
+
+https://youtu.be/Bi5pBW_bZQ4
 
 ## 6. CONCLUSIONES
 - Al realizar la practica hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circutos con mas de una fuente de carga conectada a el. pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que ay una precisión muy grande entre ellos.
