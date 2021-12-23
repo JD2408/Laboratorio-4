@@ -5,7 +5,13 @@
  
  ## 1. OBJETIVOS
 ***Objetivo General***
+
+Aprender acerca del metodo de superposicion para medicion de circuitos
+
 ***Objetivos Específicos***
+
+Utilizar el metodo de superposicion para la medicion del circuito y comproboar mediante la simulacion del mismo en tonkerkad con los debidos componentes 
+
 
 ## 2. MARCO TEÓRICO
 [![Imagen5.png](https://i.postimg.cc/N0WDcxrC/Imagen5.png)](https://postimg.cc/McmV0V51)
@@ -28,6 +34,11 @@
 ![image](https://user-images.githubusercontent.com/93794279/147009971-08588851-3731-4582-ac47-02ee36c319ee.png)
 ![image](https://user-images.githubusercontent.com/93794279/147009989-c792795a-865d-44fe-a1d5-1517bee483a1.png)
 ![image](https://user-images.githubusercontent.com/93794279/147010006-0f2bf2a8-2b64-43be-b21b-6c058413d3e3.png)
+
+**Mediciones de voltaje**
+[![Imagen6.png](https://i.postimg.cc/G2CMDQh8/Imagen6.png)](https://postimg.cc/94Lt5y9C)
+[![Imagen7.png](https://i.postimg.cc/rsbZDLdc/Imagen7.png)](https://postimg.cc/K3PDWwrs)
+[![Imagen8.png](https://i.postimg.cc/PrsRndkz/Imagen8.png)](https://postimg.cc/jCcXz02L)
 
 *Procedimiento del Cálculo*
 
@@ -55,6 +66,7 @@
 ***Tabla de Intensidad***
 ![image](https://user-images.githubusercontent.com/93794279/147010108-fd826e9e-c7b5-4c6a-81df-f5a9faa9601a.png)
 
+***Cálculo de Error***
 
 ## 5. VIDEO
 
