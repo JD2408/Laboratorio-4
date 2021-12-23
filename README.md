@@ -55,7 +55,6 @@
 ***Tabla de Intensidad***
 ![image](https://user-images.githubusercontent.com/93794279/147010108-fd826e9e-c7b5-4c6a-81df-f5a9faa9601a.png)
 
-***Cálculo de Error***
 
 ## 5. VIDEO
 
