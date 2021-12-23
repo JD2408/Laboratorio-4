@@ -36,6 +36,7 @@ Utilizar el metodo de superposicion para la medicion del circuito y comproboar m
 ![image](https://user-images.githubusercontent.com/93794279/147010006-0f2bf2a8-2b64-43be-b21b-6c058413d3e3.png)
 
 **Mediciones de voltaje**
+
 [![Imagen6.png](https://i.postimg.cc/G2CMDQh8/Imagen6.png)](https://postimg.cc/94Lt5y9C)
 [![Imagen7.png](https://i.postimg.cc/rsbZDLdc/Imagen7.png)](https://postimg.cc/K3PDWwrs)
 [![Imagen8.png](https://i.postimg.cc/PrsRndkz/Imagen8.png)](https://postimg.cc/jCcXz02L)
