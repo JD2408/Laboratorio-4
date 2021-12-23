@@ -8,6 +8,8 @@
 ***Objetivos Específicos***
 
 ## 2. MARCO TEÓRICO
+[![Imagen5.png](https://i.postimg.cc/N0WDcxrC/Imagen5.png)](https://postimg.cc/McmV0V51)
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 *Materiales*
